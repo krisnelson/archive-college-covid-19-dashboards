@@ -7,9 +7,12 @@ filename='covid-19-dashboards-urls.txt'
 
 while read url; do
   echo "$url"
-  capture-website "$url" --full-page --width 1440 --scale-factor 1 \
+  capture-website "$url"  \
     --output "./captures/$(echo "$url" \
     | sed -e 's/[^A-Za-z0-9._-]/-/g').jpeg" \
-    --overwrite --type jpeg --delay 1 --timeout=600
+    --overwrite \
+    --full-page --width 1440 --scale-factor 1 \
+    --type jpeg --quality 0.8 \
+    --delay 10 --timeout=600
 
 done < "$filename"
