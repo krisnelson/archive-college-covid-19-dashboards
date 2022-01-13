@@ -292,3 +292,4 @@ https://www.uakron.edu/return-to-campus/dashboard
 https://www.simmons.edu/return-to-simmons/protecting-our-community/data-dashboard
 https://eoss.asu.edu/health/announcements/coronavirus/management
 https://www.ncsu.edu/coronavirus/testing-and-tracking/
+https://www.saintmarys.edu/dashboard
