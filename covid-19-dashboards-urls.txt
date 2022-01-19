@@ -293,3 +293,7 @@ https://www.simmons.edu/return-to-simmons/protecting-our-community/data-dashboar
 https://eoss.asu.edu/health/announcements/coronavirus/management
 https://www.ncsu.edu/coronavirus/testing-and-tracking/
 https://www.saintmarys.edu/dashboard
+https://www.csustan.edu/covid-19/covid-19-dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMWVkY2NlNGYtNDFmNy00MTI2LTkyNzAtMGU2M2JlN2NhYWM4IiwidCI6ImJlZTU2OTA3LTEzZGYtNGFmMi1hNGJmLWQ3ZWYwZGViYzAxYyIsImMiOjZ9&pageName=ReportSection33e888ade6a264564892%22
+https://www.csudh.edu/together/dashboard/
+https://www.sdstate.edu/covid-19/covid-19-dashboard
